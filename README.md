@@ -1,4 +1,4 @@
-# 🌸 Mizuki 
+# 🌸 Mizuki t
 <img align='right' src='logo.png' width='200px' alt="Mizuki logo">
 
 A modern, feature-rich static blog template built with [Astro](https://astro.build), featuring advanced functionality and beautiful design.
